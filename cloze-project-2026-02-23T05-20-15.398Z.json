@@ -1,0 +1,72 @@
+{
+  "app": "cloze-review",
+  "version": 4,
+  "exportedAt": "2026-02-23T05:20:24.415Z",
+  "data": {
+    "decks": [
+      {
+        "id": "lasue7i9-mlyq8f6k",
+        "namePath": "기본 덱"
+      },
+      {
+        "id": "7feor8n7-mlyq8is0",
+        "namePath": "민법"
+      },
+      {
+        "id": "ar852xbc-mlyq8kix",
+        "namePath": "민소법"
+      },
+      {
+        "id": "98galeev-mlyq8m7c",
+        "namePath": "형법"
+      },
+      {
+        "id": "svo3xnzy-mlyq8o70",
+        "namePath": "형소법"
+      },
+      {
+        "id": "0k2uz9yf-mlyq8tj4",
+        "namePath": "형법/총론"
+      },
+      {
+        "id": "yce1978w-mlyq8ron",
+        "namePath": "형법/각론"
+      },
+      {
+        "id": "skbss736-mlyq9673",
+        "namePath": "민법/총칙"
+      },
+      {
+        "id": "e0ktfgic-mlyq988i",
+        "namePath": "민법/물권"
+      },
+      {
+        "id": "y82rn24p-mlyq9bxg",
+        "namePath": "민법/채권"
+      },
+      {
+        "id": "u6qjnyiu-mlyq9enl",
+        "namePath": "민법/친족"
+      },
+      {
+        "id": "l5qmp2po-mlyq9gf4",
+        "namePath": "민법/상속"
+      }
+    ],
+    "cardsByDeck": {
+      "lasue7i9-mlyq8f6k": [],
+      "7feor8n7-mlyq8is0": [],
+      "ar852xbc-mlyq8kix": [],
+      "98galeev-mlyq8m7c": [],
+      "svo3xnzy-mlyq8o70": [],
+      "0k2uz9yf-mlyq8tj4": [],
+      "yce1978w-mlyq8ron": [],
+      "skbss736-mlyq9673": [],
+      "e0ktfgic-mlyq988i": [],
+      "y82rn24p-mlyq9bxg": [],
+      "u6qjnyiu-mlyq9enl": [],
+      "l5qmp2po-mlyq9gf4": []
+    },
+    "activeDeckId": "l5qmp2po-mlyq9gf4"
+  }
+}
